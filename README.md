@@ -8,6 +8,12 @@ https://sierrawild.github.io/sine-shelf/
 
 The grid is −1 to 1. Multiply the copied formula by your pixel scale. Motions you save stay in this browser.
 
+## Screenshots
+<img width="3785" height="1868" alt="image" src="https://github.com/user-attachments/assets/655cbcca-8b2c-441d-8695-aa569f07ec80" />
+<img width="3787" height="1865" alt="image" src="https://github.com/user-attachments/assets/07b3be21-17d3-4d24-8475-f42944cb61d2" />
+
+
+
 ## Similar sites
 
 - [Desmos](https://www.desmos.com/calculator) is a graphing calculator. A row can be switched to parametric.
