@@ -21,3 +21,9 @@ The grid is −1 to 1. Multiply the copied formula by your pixel scale. Motions 
 - [easings.net](https://easings.net) is a shelf of motion curves with code to copy. The formulas are fixed.
 - [cubic-bezier.com](https://cubic-bezier.com) is for one cubic Bézier ease, the kind CSS uses.
 - [GeoGebra](https://www.geogebra.org/graphing) is a fuller graphing tool, including parametric curves.
+
+
+## AI Usage Disclosure
+
+Most of the code in this repository was generated with the assistance of AI.
+This repository is published because it is a useful tool that I actively use, maintain, and improve.
