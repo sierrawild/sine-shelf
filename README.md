@@ -22,6 +22,8 @@ The grid is −1 to 1. Multiply the copied formula by your pixel scale. Motions 
 - [cubic-bezier.com](https://cubic-bezier.com) is for one cubic Bézier ease, the kind CSS uses.
 - [GeoGebra](https://www.geogebra.org/graphing) is a fuller graphing tool, including parametric curves.
 
+## Roadmap / ideas
+ - [ ] Submit algorithm for other to see and use
 
 ## AI Usage Disclosure
 
